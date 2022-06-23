@@ -1,0 +1,15 @@
+[
+	{ "like": ["2", "1", "5"], "comment": "This is Good" },
+	{ "like": ["2", "5"], "comment": "This is an awesome bit" },
+	{
+		"like": ["2", "1", "5", "4", "1", "5", "4"],
+		"comment": "CodeLab, the Best"
+	},
+	{ "like": ["2"], "comment": "It can only be God" },
+	{
+		"like": ["2", "1", "1", "1", "5", "4", "1", "5", "4"],
+		"comment": "We are ready for Tech Fare"
+	},
+	{ "like": ["2", "1", "1"], "comment": "We are ready for Tech Fare" },
+	{ "like": ["2", "1", "1"], "comment": "We are ready for Tech Fare" }
+]
